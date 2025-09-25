@@ -12,3 +12,15 @@
 // }
 
 // sum(a, b);
+
+// 2-Masala;
+
+// let a = prompt("a sonini kiriting");
+
+// function sum(a){
+//     let S = (Math.sqrt(3) / 4) * Math.pow(a, 2);
+//     let L = 3 * a;
+
+//     console.log("Uchburchak yuzasini toping =",S , "Uchburchak pirametiri =", P);
+    
+// }
