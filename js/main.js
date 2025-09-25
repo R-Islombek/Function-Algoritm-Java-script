@@ -37,3 +37,15 @@
 //     console.log(sum);
 // }
 // sum(n)
+
+// 4-Masala;
+
+// function isSquare(k) {
+//   let sqrt = Math.sqrt(k);
+//   return sqrt === parseInt(sqrt);
+// }
+
+
+// console.log(isSquare(16));  
+// console.log(isSquare(20)); 
+// console.log(isSquare(25)); 
