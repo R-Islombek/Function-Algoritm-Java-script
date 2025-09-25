@@ -92,3 +92,12 @@
 
 // console.log(timeToHMS(400));   
 // console.log(timeToHMS(3661)); 
+
+// 8-Masala;
+
+// Uyga vazifadan;
+
+let a = prompt("a sonini kiriting");
+let n = prompt("n sonini kiriting");
+
+
