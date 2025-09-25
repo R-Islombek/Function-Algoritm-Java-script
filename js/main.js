@@ -49,3 +49,13 @@
 // console.log(isSquare(16));  
 // console.log(isSquare(20)); 
 // console.log(isSquare(25)); 
+
+// 5-Masala;
+
+// let k = prompt("k sonini kiriting");
+
+// function sum(k){
+//     let count = k.toString().length;
+//     console.log(count);
+// }
+// sum(k);
