@@ -118,3 +118,19 @@
 //     console.log("Pirametiri =", P,  "Geometigi =", G);
 // }
 // sum(a, b);
+
+// 3-Masala;
+
+// let a = prompt("a sonini kiriting");
+// function sum(a){
+//    if (a > 0) {
+//       console.log("1");
+      
+//    } else if(a < 0) {
+//       console.log("-1");
+//    }
+//    else{
+//     console.log("0");
+//    }
+// }
+// sum(a);
