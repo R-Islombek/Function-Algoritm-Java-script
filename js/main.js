@@ -97,7 +97,13 @@
 
 // Uyga vazifadan;
 
-let a = prompt("a sonini kiriting");
-let n = prompt("n sonini kiriting");
+// 1-Masala
+
+// let a = prompt("a sonini kiriting");
+// let n = prompt("n sonini kiriting");
+
+// let c = Math.pow(a, n);
+
+// console.log(c);
 
 
