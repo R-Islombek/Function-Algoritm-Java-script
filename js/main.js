@@ -22,7 +22,7 @@
 //     let L = 3 * a;
 
 //     console.log("Uchburchak yuzasini toping =",S , "Uchburchak pirametiri =", P);
-    
+
 // }
 
 // 3-Masala;
@@ -59,3 +59,18 @@
 //     console.log(count);
 // }
 // sum(k);
+
+// 6-Masala;
+
+// let n = prompt("n sonini toping");
+// let n = 456
+
+
+// function sum(n) {
+//     let c = Math.floor((n / 10) % 10);
+//     let a = Math.floor(n % 10);
+//     let b = Math.floor(n / 100);
+    
+//     console.log(c, b, a);
+// }
+// sum(n)
