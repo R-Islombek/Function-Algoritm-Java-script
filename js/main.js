@@ -106,4 +106,15 @@
 
 // console.log(c);
 
+// 2-Masala;
 
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+
+// function sum(a, b){
+//     let P = (a + b) / 2;
+//     let G = Math.sqrt(a + b);
+
+//     console.log("Pirametiri =", P,  "Geometigi =", G);
+// }
+// sum(a, b);
