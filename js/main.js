@@ -74,3 +74,21 @@
 //     console.log(c, b, a);
 // }
 // sum(n)
+
+// 7-Masala;
+
+// function timeToHMS(T) {
+//   let H = Math.floor(T / 3600);          
+//   let M = Math.floor((T % 3600) / 60);   
+//   let S = T % 60;                        
+
+  
+//   if (H < 10) H = "0" + H;
+//   if (M < 10) M = "0" + M;
+//   if (S < 10) S = "0" + S;
+
+//   return `${H}:${M}:${S}`;
+// }
+
+// console.log(timeToHMS(400));   
+// console.log(timeToHMS(3661)); 
