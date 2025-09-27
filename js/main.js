@@ -151,3 +151,13 @@
 // }else{
 //     console.log("Yechimga ega emas");
 // }
+
+// 5-Masala;
+
+// let R = prompt("r sonini kiriting");
+
+// function sum(R){
+//     S = PI * Math.pow(R, 2);
+//     console.log(S);    
+// }
+
