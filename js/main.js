@@ -233,8 +233,24 @@
 
 // 11-Masala;
 
+// let n = prompt("n sonini kiriting")
 
+// function sum(n){
 
+//     if ( n < 2) {
+//         console.log("false");
+//     }
+
+//     for (let i = 0; i < n; i++) {
+//          if ( n % 2 === 0 ) {
+//             console.log("false");
+//          } else {
+//             console.log("true");
+//          }
+//          break
+//     }
+// }
+// sum(n)
 
 
 
