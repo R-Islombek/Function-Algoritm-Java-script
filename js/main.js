@@ -161,3 +161,32 @@
 //     console.log(S);    
 // }
 
+// 6-Masala;
+
+// function sum(a, b){
+//     sum = 0
+//    for(i = a;  i <= b; i++){
+//      sum +=i;
+//    }
+//    console.log(sum);
+// }
+// sum(8, 10)
+
+// 7-Masala;
+
+// function calc(A, B, S) {
+//   if (S === "+") return A + B;
+//   if (S === "-") return A - B;
+//   if (S === "*") return A * B;
+//   if (S === "/") return A / B;
+//   return 0; 
+// }
+
+// console.log(calc(10, 15, "*")); 
+// console.log(calc(7, 8, "+"));  
+// console.log(calc(20, 5, "-"));  
+// console.log(calc(20, 4, "/"));  
+// console.log(calc(5, 2, "%"));   
+
+
+
