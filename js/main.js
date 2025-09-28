@@ -233,18 +233,9 @@
 
 // 11-Masala;
 
-// function isPrime(N) {
-//   if (N < 2) return false;  
-  
-//   for (let i = 2; i < N; i++) {
-//     if (N % i === 0) {
-//       return false;         
-//     }
-//   }
-//   return true;               
-// }
-// isPrime(N)
 
 // 12-Masala;
+
+
 
 
