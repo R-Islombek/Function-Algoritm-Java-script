@@ -252,39 +252,25 @@
 // sum(n)
 
 // 12-Masala;
-// let n = Number(prompt("n sonini kiriting"));
 
-// function sum(n) {
-//     if (n < 2) {
-//         console.log("Tub son yo‘q");
-//         return;
-//     }
+// let n = +prompt("n sonini kiriting");
 
-//     let tub = 0;
-//     let tubmas = 0;
+// let tub = 0, tubmas = 0;
 
-//     for (let num = 2; num <= n; num++) {
-//         let isPrime = true;
-
-//         for (let i = 2; i < num; i++) {
-//             if (num % i === 0) {
-//                 isPrime = false;
-//                 break;
-//             }
-//         }
-
-//         if (isPrime) {
-//             tub++;
-//         } else {
-//             tubmas++;
+// for (let num = 2; num <= n; num++) {
+//     let isPrime = true;
+//     for (let i = 2; i <= Math.sqrt(num); i++) {
+//         if (num % i === 0) { 
+//             isPrime = false; 
+//             break; 
 //         }
 //     }
-
-//     console.log("Tub sonlar soni:", tub);
-//     console.log("Tub bo‘lmagan sonlar soni:", tubmas);
+//     isPrime ? tub++ : tubmas++;
 // }
 
-// sum(n);
+// console.log("Tub:", tub, " Tubmas:", tubmas);
+
+// 13-Masala;
 
 
 
