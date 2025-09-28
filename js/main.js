@@ -189,13 +189,28 @@
 // console.log(calc(5, 2, "%"));   
 
 
-let K = prompt("k sonini kiriting");
+// let K = prompt("k sonini kiriting");
 
-function sum(K){
-    if (K % 2 === 0 ) {
-        alert("true")
-    } else {
-        alert("false")
-    }
-}
-sum(K)
+// function sum(K){
+//     if (K % 2 === 0 ) {
+//         alert("true")
+//     } else {
+//         alert("false")
+//     }
+// }
+// sum(K)
+
+// 9-Masala;
+
+// let a = Number(prompt("a sonini kiriting"));
+// let b = Number(prompt("b sonini kiriting"));
+// let c = Number(prompt("c sonini kiriting"));
+
+// function sum(a, b, c){
+//     let katta = Math.max(a, b, c);
+//     let kichik = Math.min(a, b, c);
+//     let orta = (a + b + c)-(katta + kichik);
+
+//     console.log(kichik, orta, katta);
+// }
+// sum(a, b, c);
