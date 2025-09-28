@@ -189,4 +189,13 @@
 // console.log(calc(5, 2, "%"));   
 
 
+let K = prompt("k sonini kiriting");
 
+function sum(K){
+    if (K % 2 === 0 ) {
+        alert("true")
+    } else {
+        alert("false")
+    }
+}
+sum(K)
