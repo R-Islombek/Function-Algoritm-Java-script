@@ -214,3 +214,19 @@
 //     console.log(kichik, orta, katta);
 // }
 // sum(a, b, c);
+
+// 10-Masala;
+
+
+// let k = Number(prompt("k sonini kiriting"));
+// let n = Number(prompt("n sonini kiriting"));
+// let x = Number(prompt("x sonini kiriting"));
+
+// function sum(k, n, x){
+//     if (k === Math.pow(n, x)) {
+//         alert("true")
+//     } else {
+//         alert(false)
+//     }
+// }
+// sum(k, n, x)
